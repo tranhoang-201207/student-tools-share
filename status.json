@@ -1,5 +1,5 @@
 {
-  "facebookEnabled": true,
-  "hanhDongDepEnabled": true,
+  "facebookEnabled": false,
+  "hanhDongDepEnabled": flase,
   "message": "Bộ công cụ đang hoạt động"
 }
